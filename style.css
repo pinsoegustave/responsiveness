@@ -32,6 +32,12 @@
 .feature-3 {
     background-color: #C8C6FA;
 }
+.feature-4 {
+    background-color: #C8C6FA;
+}
+.feature-5 {
+    background-color: #C8C6FA;
+}
 /* Tablet Styles */
 @media only screen and (min-width:401px) and (max-width:960px) {
     .sign-up,
